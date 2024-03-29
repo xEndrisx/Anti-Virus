@@ -1,0 +1,21 @@
+difficulté;niveau;pieces;coord_piece;chrono;score
+Explorer.exe Débutant;1;"""Virus"", ""12"", ""15""";(798, 298), (699, 199), (996, 496);00:09;300
+Explorer.exe Débutant;2;"""Virus"", ""5"", ""15"", ""15""";(1095, 199), (699, 199), (699, 397), (1095, 397);00:04;300
+Explorer.exe Débutant;3;"""Virus"", ""13"", ""15"", ""16""";(1095, 199), (699, 199), (699, 397), (996, 298);00:52;300
+Explorer.exe Débutant;4;"""Virus"", ""5"", ""15"", ""15"", ""20""";(699, 595), (600, 298), (996, 694), (1095, 199), (897, 199);00:00;0
+Explorer.exe Débutant;5;"""Virus"", ""5"", ""15"", ""15"", ""19""";(1095, 595), (600, 298), (897, 199), (600, 496), (897, 397);00:00;0
+Kernel32 Avancé;1;;;;
+Kernel32 Avancé;2;;;;
+Kernel32 Avancé;3;;;;
+Kernel32 Avancé;4;;;;
+Kernel32 Avancé;5;;;;
+Regedit Expert;1;;;;
+Regedit Expert;2;;;;
+Regedit Expert;3;;;;
+Regedit Expert;4;;;;
+Regedit Expert;5;;;;
+System32 Maître;1;;;;
+System32 Maître;2;;;;
+System32 Maître;3;;;;
+System32 Maître;4;;;;
+System32 Maître;5;;;;

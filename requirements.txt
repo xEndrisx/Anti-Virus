@@ -1,0 +1,12 @@
+Prérequis pour Windows:
+----------
+Veuillez vous assurer d'avoir les éléments suivants installés :
+- Python 3.x
+- Pygame 2.5.2
+
+
+Note : Si cette erreur apparait lors de l'exécution du programme :
+
+"SystemError: <built-in function get> returned a result with an exception set"
+
+Il faut redémarrer l'ordinateur afin de pouvoir lancer le jeu.

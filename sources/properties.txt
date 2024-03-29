@@ -1,0 +1,4 @@
+etat_Débutant = 0
+etat_Avancée = 0
+etat_Expert = 0
+etat_Maitre = 0
