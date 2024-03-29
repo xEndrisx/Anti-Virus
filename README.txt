@@ -4,7 +4,9 @@
 
 Description:
 ------------
-Anti-Virus est un jeu de réflexion captivant qui met au défi les compétences stratégiques des joueurs. Dans ce jeu vidéo programmé en Python, les joueurs doivent évacuer du plateau un virus informatique ayant contaminée un système en déplaçant stratégiquement les autres pièces. Les joueurs auront le choix entre plusieurs défis de difficulté croissante, garantissant une expérience stimulante à tous les niveaux de compétences !
+Anti-Virus est un jeu de réflexion captivant qui met au défi les compétences stratégiques des joueurs. Dans ce jeu vidéo programmé en Python, les joueurs doivent 
+évacuer du plateau un virus informatique ayant contaminée un système en déplaçant stratégiquement les autres pièces. Les joueurs auront le choix entre plusieurs 
+défis de difficulté croissante, garantissant une expérience stimulante à tous les niveaux de compétences !
 
 
 Comment jouer:
